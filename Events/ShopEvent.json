@@ -1,0 +1,41 @@
+{
+    "name": "Slimey Shopping Encouter",
+    "CardType": "Shopping",
+    "CardLimit": "0",
+    "Description": "",
+    "requires": [ ""],
+    "requiresEvent": [
+        {
+            "NameOfEvent": "",
+            "Progress": "99",
+            "ChoiceNumber": "-1",
+            "Choice": ""
+        }
+    ],
+    "Speakers": [
+        {
+            "name": "Blue Slime",
+            "postName": "",
+            "SpeakerType": ""
+        }
+    ],
+    "EventText": [
+        {
+            "NameOfScene": "",
+            "theScene": [
+            "You walk around the shops.",
+            "DisplayCharacters",
+              "1",
+            "EndLoop"  
+            ]
+        },
+
+            {
+                "NameOfScene": "",
+                "theScene": [
+                ""
+                ]
+            }
+
+    ]
+}
