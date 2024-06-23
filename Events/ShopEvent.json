@@ -26,14 +26,22 @@
             "You walk around the shops.",
             "DisplayCharacters",
               "1",
-            "EndLoop"  
+            "EndLoop",
+            "Speaks",
+                "Hello [ThePlayerName], I'm a Slime! Let's fight.",
+            "CombatEncounter",
+                "Blue Slime",
+            "StartCombat",
+            "You continue shopping.",
+            "JumpToScene", "Find Ugli Herb"
             ]
         },
 
             {
-                "NameOfScene": "",
+                "NameOfScene": "Find Ugli Herb",
                 "theScene": [
-                ""
+                "{b}Wow{/b}, you found and Ugli Herb!",
+                "GiveItemQuietly," "1", "Ugli Herb"
                 ]
             }
 
