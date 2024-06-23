@@ -40,8 +40,8 @@
             {
                 "NameOfScene": "Find Ugli Herb",
                 "theScene": [
-                "{b}Wow{/b}, you found and Ugli Herb!",
-                "GiveItemQuietly," "1", "Ugli Herb"
+                "{b}Wow{/b}, you found an Ugli Herb!",
+                "GiveItemQuietly", "1", "Ugli Herb"
                 ]
             }
 
