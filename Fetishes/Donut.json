@@ -3,9 +3,14 @@
         {
             "Name": "Donuts",
             "BaseLevel": "0",
-            "Type": "",
+            "Type": "Fetish",
             "CreationOn": "Is that fresh donut you smell?",
-            "CreationOff": ""
+            "CreationOff": "",
+            "ToolTip": "Do you enjoy round butts?",
+            "LevelText": [
+              ["0", "Not at all!"],
+              ["25", "Kinda."]
+            ]
         }
     ]
 }
